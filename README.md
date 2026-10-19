@@ -1,1 +1,1 @@
-There’s a new tool coming soon
+A new tool called ShuX is coming soon
